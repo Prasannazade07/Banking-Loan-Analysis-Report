@@ -5,9 +5,13 @@ focusing on a banking loan analysis project specific to American states' loans b
 <a href=https://github.com/Prasannazade07/Banking-Loan-Analysis-Report/blob/main/Bank_Analytics_Dashboard.xlsx>Finance 1 and 2</a> 
 ## Questions (KPI)
 •	Year wise loan amount Stats
+
 •	Grade and sub grade wise revol_bal
+
 •	Total Payment for Verified Status vs Total Payment for Non Verified Status
+
 •	State wise and last_credit_pull_d wise loan status
+
 •	Home Ownership vs Last Payment date stats
 
 -	Dashboard  <a href=https://github.com/Prasannazade07/Banking-Loan-Analysis-Report/blob/main/Excel%20dashboard.png> View Excel Dashboard </a>
